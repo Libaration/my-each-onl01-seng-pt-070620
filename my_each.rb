@@ -4,4 +4,7 @@ def my_each (array)
     yield array[i]
     i += 1
   end
+  array
 end
+
+myArray = %w[testing this shit i hate coding sometimes]
