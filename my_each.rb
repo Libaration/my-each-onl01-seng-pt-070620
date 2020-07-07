@@ -7,4 +7,4 @@ def my_each (array)
   array
 end
 
-myArray = %w[testing this shit i hate coding sometimes]
+myArray = %w[testing array here pass this through]
